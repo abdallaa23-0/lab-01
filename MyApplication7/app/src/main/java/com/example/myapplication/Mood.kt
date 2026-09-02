@@ -1,5 +1,5 @@
 package com.example.myapplication
 
 abstract class Mood(val date: String) {
-    abstract fun moods(): String
+    abstract fun moodexpression(): String
 }
